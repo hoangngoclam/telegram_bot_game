@@ -1,0 +1,2 @@
+# -*- coding: utf-8 -*-
+TOKEN = '5342446368:AAERL9wdenfOOMJ4He2AZL6BZ7IHK5LiFYY'
